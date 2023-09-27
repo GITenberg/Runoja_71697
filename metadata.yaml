@@ -1,0 +1,31 @@
+_repo: Runoja_71697
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Weijola, Yrjö
+    birthdate: 1875
+    deathdate: 1930
+    gutenberg_agent_id: '28373'
+    url: http://www.gutenberg.org/2009/agents/28373
+creator:
+  author:
+    agent_name: Stenbäck, Lars
+    gutenberg_agent_id: '56337'
+    url: http://www.gutenberg.org/2009/agents/56337
+description: ''
+gutenberg_issued: '2023-09-21'
+identifiers:
+  gutenberg: '71697'
+language: fi
+pgterms:marc905: 20230608124631stenbck
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Runoja
+url: http://www.gutenberg.org/ebooks/71697
