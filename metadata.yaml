@@ -7,12 +7,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '28373'
     url: http://www.gutenberg.org/2009/agents/28373
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stenbäck, Lars
     gutenberg_agent_id: '56337'
     url: http://www.gutenberg.org/2009/agents/56337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71697#Runoja
 gutenberg_issued: '2023-09-21'
 identifiers:
   gutenberg: '71697'
